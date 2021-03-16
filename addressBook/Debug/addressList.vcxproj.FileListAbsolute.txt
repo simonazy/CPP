@@ -1,0 +1,2 @@
+C:\Users\simon\source\repos\addressList\Debug\addressList.exe
+C:\Users\simon\source\repos\addressList\Debug\addressList.pdb

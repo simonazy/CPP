@@ -1,0 +1,4 @@
+﻿  AddressList.cpp
+C:\Users\simon\source\repos\addressList\AddressList.cpp(77,11): warning C4566: character represented by universal-character-name '\uFF1A' cannot be represented in the current code page (1252)
+C:\Users\simon\source\repos\addressList\AddressList.cpp(286,9): warning C4102: 'defaut': unreferenced label
+  addressList.vcxproj -> C:\Users\simon\source\repos\addressList\Debug\addressList.exe
