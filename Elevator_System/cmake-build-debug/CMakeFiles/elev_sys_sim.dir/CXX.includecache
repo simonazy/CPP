@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/elevator.h
+vector
+-
+string
+-
+iostream
+-
+request.h
+../include/request.h
+
+../include/request.h
+
+/Users/bravery_simon/Documents/UdacityCPP-master/Elevator_System/src/elevator.cpp
+elevator.h
+/Users/bravery_simon/Documents/UdacityCPP-master/Elevator_System/src/elevator.h
+
+/Users/bravery_simon/Documents/UdacityCPP-master/Elevator_System/src/elevator_sim.cpp
+elevator.h
+/Users/bravery_simon/Documents/UdacityCPP-master/Elevator_System/src/elevator.h
+
