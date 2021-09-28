@@ -1,0 +1,22 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/bravery_simon/Documents/UdacityCPP-master/Path_Planning_OpenStreetMap
+TESTING = notest
+CMake Error at CMakeLists.txt:29 (find_package):
+  By not providing "Findio2d.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "io2d", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "io2d" with any of
+  the following names:
+
+    io2dConfig.cmake
+    io2d-config.cmake
+
+  Add the installation prefix of "io2d" to CMAKE_PREFIX_PATH or set
+  "io2d_DIR" to a directory containing one of the above files.  If "io2d"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/bravery_simon/Documents/UdacityCPP-master/Path_Planning_OpenStreetMap/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/bravery_simon/Documents/UdacityCPP-master/Path_Planning_OpenStreetMap/cmake-build-debug/CMakeFiles/CMakeError.log".
