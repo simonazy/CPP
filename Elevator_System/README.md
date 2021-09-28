@@ -1,5 +1,5 @@
 # Elevator System
-This is a repo for the Capstone project in Udacity C++ Nanodegree Program.
+
 The Capstone chosen here gives a chance to practice the knowledge of C++ programming language, by implementing the well-know Object-Oreiented Design (OOD) problem, Elevator System Design.
 
 ## Dependencies for Running Locally
